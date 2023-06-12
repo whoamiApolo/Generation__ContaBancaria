@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Apolinario
- *
- */
-module conta {
-}

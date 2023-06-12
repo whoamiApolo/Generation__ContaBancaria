@@ -10,13 +10,6 @@ public class Menu {
 
 	public static void main(String[] args) {
 		
-		Conta conta = new Conta(1, 123, 1, "Adriana", 10000.0f);
-		conta.visualizar();
-		conta.sacar(12000.0f);
-		conta.visualizar();
-		conta.depositar(5000.0f);
-		conta.visualizar();
-		
 		ContaCorrente contacorrente = new ContaCorrente(2, 123, 1, "Mariana", 15000.0f, 1000.0f);
 		contacorrente.visualizar();
 		contacorrente.sacar(12000.0f);
